@@ -1,0 +1,3 @@
+[submodule "foundry-app"]
+  path = foundry-app
+  url = https://github.com/AHMERDKING/foundry-app.git
